@@ -1,0 +1,7 @@
+Implementing Decision tree and Random forest on Kyphosis Dataset using Scikit Learn
+
+About this Project:
+
+This project is to implement Decision Tree and Random Forest on Kyphosis Dataset using Scikit Learn and other modules.
+
+Let's Code with learnerdev :)
